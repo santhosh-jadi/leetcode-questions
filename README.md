@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0018-4sum) |
 | [0605-can-place-flowers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0605-can-place-flowers) |
+| [1260-shift-2d-grid](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
