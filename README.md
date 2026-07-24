@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [1260-shift-2d-grid](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -78,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0191-number-of-1-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
