@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0877-stone-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
