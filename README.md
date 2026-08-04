@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -85,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
