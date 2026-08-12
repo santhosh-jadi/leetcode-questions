@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0018-4sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0402-remove-k-digits) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
