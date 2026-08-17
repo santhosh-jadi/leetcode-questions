@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0605-can-place-flowers) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3731-find-missing-elements) |
