@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0402-remove-k-digits) |
+| [0500-keyboard-row](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0500-keyboard-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0500-keyboard-row) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3731-find-missing-elements) |
