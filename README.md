@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0500-keyboard-row](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0500-keyboard-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2073-time-needed-to-buy-tickets) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
