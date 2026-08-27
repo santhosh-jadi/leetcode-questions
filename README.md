@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0500-keyboard-row) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3731-find-missing-elements) |
