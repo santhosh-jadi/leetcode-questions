@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
