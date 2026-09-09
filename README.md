@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0055-jump-game) |
 | [0137-single-number-ii](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0496-next-greater-element-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0605-can-place-flowers) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0877-stone-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
