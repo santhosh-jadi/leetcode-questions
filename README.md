@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0500-keyboard-row) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 ## String Matching
 |  |
