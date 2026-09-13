@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0994-rotting-oranges) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
