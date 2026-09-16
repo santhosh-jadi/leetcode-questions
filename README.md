@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0633-sum-of-square-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0877-stone-game) |
 | [1103-distribute-candies-to-people](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1103-distribute-candies-to-people) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0191-number-of-1-bits) |
+| [0779-k-th-symbol-in-grammar](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/santhosh-jadi/leetcode-questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0050-powx-n) |
+| [0779-k-th-symbol-in-grammar](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
 | ------- |
