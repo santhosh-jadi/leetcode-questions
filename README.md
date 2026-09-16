@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0050-powx-n) |
 ## Backtracking
 |  |
 | ------- |
