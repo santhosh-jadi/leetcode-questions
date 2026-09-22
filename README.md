@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0390-elimination-game](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0390-elimination-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0390-elimination-game) |
 | [0779-k-th-symbol-in-grammar](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
