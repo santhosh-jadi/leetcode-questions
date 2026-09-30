@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0234-palindrome-linked-list) |
