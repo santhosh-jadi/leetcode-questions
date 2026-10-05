@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0500-keyboard-row](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0541-reverse-string-ii) |
+| [0856-score-of-parentheses](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/santhosh-jadi/leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0856-score-of-parentheses) |
 ## Memoization
 |  |
 | ------- |
