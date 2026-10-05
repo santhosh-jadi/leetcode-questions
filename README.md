@@ -251,21 +251,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
