@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
@@ -260,18 +261,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/santhosh-jadi/leetcode-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/santhosh-jadi/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
